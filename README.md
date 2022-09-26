@@ -6,7 +6,7 @@
 I'm a student currently doing my B.Tech in Computer Science and Technology with specialization in Artificial Intelligence
 at Amrita School of Enginneering, Amritapuri, Kerala.
 I am very interested in Artificial Intelligence, Data Science and Machine learning. 
-I like to learn and explore things that I dont know. 
+I like to learn and explore new things. 
 
 🧠 I am currently learning the essential python libraries for AI and ML.
  
