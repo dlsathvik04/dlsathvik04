@@ -36,3 +36,7 @@ Frontend development(Basic), Python(Basic), Java(Basic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsathvik04)](https://github.com/dlsathvik04/github-readme-stats)
 
+## Badges
+[![@dlsathvik04's Holopin board](https://holopin.me/dlsathvik04)](https://holopin.io/@dlsathvik04)
+
+
