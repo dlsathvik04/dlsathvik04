@@ -31,11 +31,6 @@ Frontend development(Basic), Python(Basic), Java(Basic)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekha-sathvik-devabathini-645105221/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dlsathvik04)
 
-## 📊  My Stats
-[![Lekha Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsathvik04)](https://github.com/dlsathvik04/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsathvik04)](https://github.com/dlsathvik04/github-readme-stats)
-
 ## Badges
 [![@dlsathvik04's Holopin board](https://holopin.me/dlsathvik04)](https://holopin.io/@dlsathvik04)
 
