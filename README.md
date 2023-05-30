@@ -22,18 +22,20 @@ Any basic quesions in Python and Java. I may not know all the answers but I can 
 
 You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gmail.com
 
-## 🛠 Skills
+## 🛠 Skills and Experience
 <div>
- <hr>
- ### Programming Languages:
+
+### Programming Languages:
+
  <ul>
   <li>Java</li>
   <li>Python</li>
   <li>JavaScript</li>
   <li>Dart</li>
  </ul>
- <hr>
+ 
  ### Frameworks
+ 
  <ul>
   <li>Express.js</li>
   <li>Flutter</li>
@@ -41,6 +43,7 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
   <li>Tensorflow</li>
   <li>Spring</li>
  </ul>
+
  ### Others
  <ul>
   <li>My SQL</li>
@@ -52,10 +55,10 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="80" height="80"/> -->
- -->
+ 
 </div>
 
 
