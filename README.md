@@ -20,7 +20,7 @@ to learn something on AI and ML.
 ## 💬 Ask me about ...
 Any basic quesions in Python and Java. I may not know all the answers but I can learn with you .
 
-You can reach me through email at 📫: dlsathvik04@gmail.com
+You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gmail.com
 
 ## 🛠 Skills
 <div>
