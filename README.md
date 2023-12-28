@@ -32,6 +32,7 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
   <li>Python</li>
   <li>JavaScript</li>
   <li>Dart</li>
+  <li>PowerShell</li>
  </ul>
  
  ### Frameworks
