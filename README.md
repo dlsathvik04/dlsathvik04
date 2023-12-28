@@ -32,7 +32,6 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
   <li>Python</li>
   <li>JavaScript</li>
   <li>Dart</li>
-  <li>PowerShell</li>
  </ul>
  
  ### Frameworks
@@ -51,6 +50,7 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
   <li>Git</li>
   <li>Firebase</li>
   <li>HTML and CSS</li>
+  <li>PowerShell</li>
   <li>Bash</li>
  </ul>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
