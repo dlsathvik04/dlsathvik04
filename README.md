@@ -30,7 +30,7 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
  <ul>
   <li>Java</li>
   <li>Python</li>
-  <li>JavaScript</li>
+  <li>JavaScript / TypeScript</li>
   <li>Dart</li>
  </ul>
  
