@@ -30,7 +30,7 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
  <ul>
   <li>Java</li>
   <li>Python</li>
-  <li>JavaScript</li>
+  <li>JavaScript / TypeScript</li>
   <li>Dart</li>
  </ul>
  
@@ -50,6 +50,7 @@ You can reach me through email at 📫: dlsathvik04@gmail.com, vardhan572004@gma
   <li>Git</li>
   <li>Firebase</li>
   <li>HTML and CSS</li>
+  <li>PowerShell</li>
   <li>Bash</li>
  </ul>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
