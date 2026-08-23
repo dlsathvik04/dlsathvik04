@@ -1,26 +1,7 @@
 
 # Hi, I'm Lekha Sathvik! 👋
 
-
-## 🚀 About Me
-I'm a student currently doing my B.Tech in Computer Science and Technology with specialization in Artificial Intelligence
-at Amrita School of Enginneering, Amritapuri, Kerala.
-I am very interested in Artificial Intelligence, Data Science and Machine learning. 
-I like to learn and explore new things. 
-
-🧠 I am currently learning the essential python libraries for AI and ML.
- 
-
-👯‍♀️ I'm looking to collaborate on any projects which encourages starters like me 
-to learn something on AI and ML.
-
-
-🤔 I'm looking for help with mathematical explanations and implementation of various AI and ML algorithms.
-
-## 💬 Ask me about ...
-Any basic quesions in Python and Java. I may not know all the answers but I can learn with you .
-
-You can reach me through email at 📫: dlsathvik04@gmail.com
+You can reach me through email at 📫: dlsathvik04@proton.me
 
 ## 🛠 Skills and Experience
 <div>
